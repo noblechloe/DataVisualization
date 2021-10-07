@@ -15,3 +15,6 @@ Timeline of the life of Vera Wang and her accomplishments throughout the years.
 
 ### Lehigh Undergraduate Enrollment Chart
 ![Lehigh Undergraduate Enrollment](https://github.com/noblechloe/noblechloe.github.io/blob/main/Lehigh_Undergraduate_Enrollment_in_Colleges,_2019_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true) 
+
+### Global CO2 Emissions Chart
+![Global CO2 Emissions](https://github.com/noblechloe/noblechloe.github.io/blob/main/Global_CO2_Emissions,_1950-2010_CO2_Emissions_chartbuilder.png?raw=true)
