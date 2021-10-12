@@ -17,4 +17,5 @@ Timeline of the life of Vera Wang and her accomplishments throughout the years.
 ![Lehigh Undergraduate Enrollment](https://github.com/noblechloe/noblechloe.github.io/blob/main/Lehigh_Undergraduate_Enrollment_in_Colleges,_2019_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true) 
 
 ### Global CO2 Emissions Chart
+The global CO2 emissions from 1950-2010. This shows the increase of global CO2 emissions over the years. This is important becasue it shows how much it has increased, since 1950 is has more than doubled. This data also only goes up to 2010 so the emissions are probably even higher now. 
 ![Global CO2 Emissions](https://github.com/noblechloe/noblechloe.github.io/blob/main/Global_CO2_Emissions,_1950-2010_CO2_Emissions_chartbuilder.png?raw=true)
