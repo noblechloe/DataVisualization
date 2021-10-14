@@ -19,3 +19,7 @@ Timeline of the life of Vera Wang and her accomplishments throughout the years.
 ### Global CO2 Emissions Chart
 The global CO2 emissions from 1950-2010. This shows the increase of global CO2 emissions over the years. This is important becasue it shows how much it has increased, since 1950 is has more than doubled. This data also only goes up to 2010 so the emissions are probably even higher now. 
 ![Global CO2 Emissions](https://github.com/noblechloe/noblechloe.github.io/blob/main/Global_CO2_Emissions,_1950-2010_CO2_Emissions_chartbuilder.png?raw=true)
+
+### Change in Undergraduate Enrollment per College per Year
+This line chart shows the change from 2017 to 2021 of undergraduate enrollment in the three main colleges at Lehigh University. It is interesting to see that over the five years the enrollment in Arts & Sciences has increased, whereas the enrollment in Engineering has decreased and the enrollment in Business has basically stayed the same.
+![Undergraduate Enrollment](https://github.com/noblechloe/noblechloe.github.io/blob/main/Change_In_Undergraduate_Enrollment_Per_College_Per_Year_Arts_&_Sci._Business_Engineering_chartbuilder.png?raw=true)
