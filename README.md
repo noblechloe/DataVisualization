@@ -1,5 +1,5 @@
 ### Chloes Data Journalism Portfolio
-My name is Chloe NOble. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications with a minor in Business. I am interested in using my journalism and communication skills in combination with my business background to use that in the marketing field. I am from Woodstock, Vermont and love to spend my free time in the winter skiing
+My name is Chloe Noble. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications with a minor in Business. I am interested in using my journalism and communication skills in combination with my business background to use that in the marketing field. I am from Woodstock, Vermont and love to spend my free time in the winter skiing
 ### Do Lehigh Students Change Schools After First-Year/
 Infographic showing the change in student enrollment of each of the colleges from first-year to overall enrollment. 
 ![Do Lehigh Students Change Schools After First-Year?](https://github.com/noblechloe/noblechloe.github.io/blob/main/Do%20Lehigh%20Students%20Change%20Schools.jpg?raw=true)
@@ -23,3 +23,7 @@ The global CO2 emissions from 1950-2010. This shows the increase of global CO2 e
 ### Change in Undergraduate Enrollment per College per Year
 This line chart shows the change from 2017 to 2021 of undergraduate enrollment in the three main colleges at Lehigh University. It is interesting to see that over the five years the enrollment in Arts & Sciences has increased, whereas the enrollment in Engineering has decreased and the enrollment in Business has basically stayed the same.
 ![Undergraduate Enrollment](https://github.com/noblechloe/noblechloe.github.io/blob/main/Change_In_Undergraduate_Enrollment_Per_College_Per_Year_Arts_&_Sci._Business_Engineering_chartbuilder.png?raw=true)
+
+### Life Satisfaction and GDP Per Capita Scatterplot
+This scatterplot shows the correlation between overall life satisifaction and GDP per capita. You can see a trend that with a higher GDP per capita the happiness also increases. The highest satisified country is Luxembourg. The least satisified country is Afghanistan which also has the lowest GDP per capita. The country with the highest GDP per capita is Finland. 
+![Life Satisfaction and GDP Per Capita](https://github.com/noblechloe/noblechloe.github.io/blob/main/2017_Life_Satisfaction_and_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true) 
