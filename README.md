@@ -27,3 +27,7 @@ This line chart shows the change from 2017 to 2021 of undergraduate enrollment i
 ### Life Satisfaction and GDP Per Capita Scatterplot
 This scatterplot shows the correlation between overall life satisifaction and GDP per capita. You can see a trend that with a higher GDP per capita the happiness also increases. The highest satisified country is Luxembourg. The least satisified country is Afghanistan which also has the lowest GDP per capita. The country with the highest GDP per capita is Finland. 
 ![Life Satisfaction and GDP Per Capita](https://github.com/noblechloe/noblechloe.github.io/blob/main/2017_Life_Satisfaction_and_GDP_Per_Capita_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true) 
+
+### U.S Poverty Rates from 1990-2020
+This line chart shows the poverty rates in the U.S over 30 years. It's interesting to see how much is fluctuates over the years. There is a big spike in 2008-2010 which is when the financial crisis happened but after that it starts to go down again. It would be interesting to see how Covid has affected the poverty rates.
+![U.S Poverty Rates](https://github.com/noblechloe/noblechloe.github.io/blob/main/Poverty_Rate_in_the_U.S_Poverty_Rate_the_U.S_chartbuilder.png?raw=true) 
