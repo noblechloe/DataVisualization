@@ -31,3 +31,7 @@ This scatterplot shows the correlation between overall life satisifaction and GD
 ### U.S Poverty Rates from 1990-2020
 This line chart shows the poverty rates in the U.S over 30 years. It's interesting to see how much is fluctuates over the years. There is a big spike in 2008-2010 which is when the financial crisis happened but after that it starts to go down again. It would be interesting to see how Covid has affected the poverty rates.
 ![U.S Poverty Rates](https://github.com/noblechloe/noblechloe.github.io/blob/main/Poverty_Rate_in_the_U.S_Poverty_Rate_the_U.S_chartbuilder.png?raw=true) 
+
+### World's Top 20 Cycling Cities
+This map shows the top 20 cycling cities around the world. It includes a description as to why they are considered the best cities for biking.
+<iframe src="https://www.google.com/maps/d/embed?mid=1vytwTPi8Bf8GrAYkw2kWUrHrTD9xtJ8r" width="640" height="480"></iframe> 
