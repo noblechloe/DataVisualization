@@ -35,3 +35,7 @@ This line chart shows the poverty rates in the U.S over 30 years. It's interesti
 ### World's Top 20 Cycling Cities
 This map shows the top 20 cycling cities around the world. It includes a description as to why they are considered the best cities for biking.
 <iframe src="https://www.google.com/maps/d/embed?mid=1vytwTPi8Bf8GrAYkw2kWUrHrTD9xtJ8r" width="640" height="480"></iframe> 
+
+### Top 10 Fashion Capitals Around the World
+This map shows the top 10 fashion capitals around the world. The data is from 2015 and is the rankings are based on a annual survery done by The Global Language Monitor, a data research and media analytics company based in Austin, Texas. 
+<iframe src="https://www.google.com/maps/d/embed?mid=1GTezOLAdZ2kew_JYRf_ouJ3soERlv9D2" width="640" height="480"></iframe>
