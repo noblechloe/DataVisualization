@@ -1,5 +1,7 @@
 ### Chloes Data Journalism Portfolio
 My name is Chloe Noble. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications with a minor in Business. I am interested in using my journalism and communication skills in combination with my business background to use that in the marketing field. I am from Woodstock, Vermont and love to spend my free time in the winter skiing
+### Introduction Comic
+![Comic](https://github.com/noblechloe/noblechloe.github.io/blob/main/Screen%20Shot%202021-11-14%20at%203.43.24%20PM.png?raw=true) 
 ### Do Lehigh Students Change Schools After First-Year/
 Infographic showing the change in student enrollment of each of the colleges from first-year to overall enrollment. 
 ![Do Lehigh Students Change Schools After First-Year?](https://github.com/noblechloe/noblechloe.github.io/blob/main/Do%20Lehigh%20Students%20Change%20Schools.jpg?raw=true)
