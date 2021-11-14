@@ -1,4 +1,5 @@
 ### Chloes Data Journalism Portfolio
+![Profile Photo](https://github.com/noblechloe/noblechloe.github.io/blob/main/IMG_3456.jpg?raw=true)
 My name is Chloe Noble. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications with a minor in Business. I am interested in using my journalism and communication skills in combination with my business background to use that in the marketing field. I am from Woodstock, Vermont and love to spend my free time in the winter skiing
 ### Introduction Comic
 ![Comic](https://github.com/noblechloe/noblechloe.github.io/blob/main/Screen%20Shot%202021-11-14%20at%203.43.24%20PM.png?raw=true) 
