@@ -1,4 +1,4 @@
-### Chloes Data Journalism Portfolio
+### Data Visualzation 
 ![Profile Photo](https://github.com/noblechloe/noblechloe.github.io/blob/main/IMG_3456.jpg?raw=true)
 
 My name is Chloe Noble. I am a junior at Lehigh University in Bethlehem, PA. My major is Journalism and Communications with a minor in Business. I am interested in using my journalism and communication skills in combination with my business background to use that in a marketing or advertising job. I am from Woodstock, Vermont and love to spend my free time in the winter skiing.
@@ -15,7 +15,7 @@ This is an infogrpahic looking at the data of child marriages around the world. 
 
 
 ### The Life of Vera Wang
-This timline shows the life of Vera Wang and some of her most notable accomplishmnets. I made this timeline using TimelineJS. The data about Vera Wang was all collected from Wikipedia. I chose to do a timeline on Vera Wang because I love fashion and I find her very inspiring. 
+This timline shows the life of Vera Wang and some of her most notable accomplishments. I made this timeline using TimelineJS. The data about Vera Wang was all collected from Wikipedia. I chose to do a timeline on Vera Wang because I love fashion and I find her very inspiring. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1aa5WWyJl8cRiMWQ5H61V0L7aJFxuhyjxdhB36XFqXY0&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe> 
 
 
